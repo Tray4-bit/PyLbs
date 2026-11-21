@@ -1,0 +1,10 @@
+# Byte-compiled / cache / test artifacts
+__pycache__/
+*.py[codz]
+.pytest_cache/
+
+# Virtual environment & local files
+.venv/
+notes.txt
+.DS_Store
+.vscode/
